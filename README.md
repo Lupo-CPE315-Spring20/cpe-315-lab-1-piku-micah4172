@@ -17,6 +17,7 @@ Micah Jeffries. No Nickname.
   * `./piku`
   
   gcc -o piku piku.s
+  
   ./piku
   
 * Issues that you encountered along the way, and anything you have questions about.
